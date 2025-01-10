@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-image: url("../img/flag.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    text-align: center;
+}
+
+.maintitle {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+
+.title {
+    text-decoration: underline;
+
+}
+
+.imgcontainer {
+    display: block;
+    width: auto;
+    height: auto;
+}
+
+.imgpropriety {
+    width: 200px;
+    border-radius: 3%;
+}
+
+.table-one {
+    display: inline-block;
+
+}
+
+footer {
+    background-color: white;
+}
+
+.footerlink {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-decoration: none;
+    margin: 20px;
+    border: solid 2px black;
+}
